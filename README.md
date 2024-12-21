@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Yudha Papua Setyo Atmaji and you can call me Yudha. Welcome to my Github account! <br>I have a passion in combining the art of design and the art of code into Front-End Development.<br>I’m currently learning JavaScript. It’s hard for me sometimes but I enjoyed it! I love to be challenged.<br>For now, I live in Jakarta, Indonesia.
+Hello! I’m Yudha Papua Setyo Atmaji and you can call me Yudha. Welcome to my Github account! <br>I have a passion in combining the art of design and the art of code into Front-End Development.<br>For now, I live in Jakarta, Indonesia.
 
 
 ## 🌐 Socials:
